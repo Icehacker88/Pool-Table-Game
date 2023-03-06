@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"PoolGame"},{"l":"PoolGame.Builder"},{"l":"PoolGame.Config"},{"l":"PoolGame.Factory"},{"l":"PoolGame.Items"},{"l":"PoolGame.Memento"},{"l":"PoolGame.Observer"},{"l":"PoolGame.Strategy"},{"l":"所有程序包","u":"allpackages-index.html"}];updateSearchResults();
