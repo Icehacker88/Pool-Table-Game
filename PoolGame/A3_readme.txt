@@ -1,5 +1,5 @@
 The game will start by 'gradle run'. A small flaw is that if player has won the game,
-the text “win and bye” will always on the screen. I can’t hide it by load the previous state.
+the text “win and bye” will always on the screen.
 
 Realized functions:
 1. Pockets and More Coloured Balls
