@@ -1,4 +1,4 @@
 # Pool-Table-Game
 A java program to realize a table ball game. 
 
-There are three levels.
+There are now three difficulty levels in the game including easy, normal and hard. Duration of the game is clocked until all balls (except the cue ball) are in the pockets (i.e., game wins) or the cue ball falls into a pocket (i.e., game loses). The game must display on the screen a continually updating time (initially at 0:00). The score is calculated when a ball falls into a pocket. The game must display on the screen an updating score (initially at 0) when a ball falls into a pocket during the level. The player can reset the game to an earlier state (including score, time, ball positions) so that a shot can be undo. This is a single state that is not written to disk, and the state reaching by the subsequent undo function overwrites the existing saved state. The player can do a cheating operation to remove all same colored ball immediately.
